@@ -1,0 +1,20 @@
+Một số yêu cầu bài tập lớn:
+• Chọn 1 chủ đề và dữ liệu đã học: Mã hoá, chỉ mục; Văn bản, âm thanh, ảnh, video
+• Các đặc trưng MFCC, các đặc trưng phức tạp của ảnh (Edge, GIST, LBP, Gabor Wavelets Texture
+	SUFT, SIFT, CNN) => có thể dùng thư viện (ko bị trừ điểm)
+• Thuật toán: Nếu chỉ gọi hàm thư viện mà ko tự code thì được ít điểm
+• Làm về xử lý văn bản ít điểm hơn so với âm thanh, hình ảnh, video
+• Làm xử lý âm thanh, ảnh mà sử dụng hàm thư viện để trích chọn đặc trưng rồi chỉ so sánh độ tương tự thì điểm ko cao nhé :)
+• Quyển mô tả:
+	- Phát biểu Bài toán
+	- Những gì thực hiện
+	- Kết quả thu được	
+	=> Chú ý, không copy lý thuyết để quyển quá dài
+* Nhóm: 3-4 SV
+	- Thiếu trừ điểm
+	- Thừa trừ điểm
+• Ngôn ngữ sử dụng: C, C++, C#, Java, Python
+
+- Tìm kiếm đối tượng tương tự: Text, audio, image, video
+- Mã hoá: Text, Auido, image, video
+- Trình qly và phát audio, video

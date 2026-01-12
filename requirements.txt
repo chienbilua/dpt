@@ -1,0 +1,18 @@
+# Thu vien xu ly tin hieu va tinh toan
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Thu vien giao dien do hoa
+PyQt5>=5.15.0
+
+# Thu vien ve bieu do
+matplotlib>=3.4.0
+
+# Thu vien phat am thanh
+pygame>=2.1.0
+
+# Thu vien doc file MP3/OGG/FLAC (can cai ffmpeg)
+pydub>=0.25.0
+
+# Ho tro Python 3.13+ (chi can neu dung Python 3.13 tro len)
+# audioop-lts>=0.2.1
